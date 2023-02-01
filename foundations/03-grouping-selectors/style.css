@@ -1,0 +1,13 @@
+.stbutton {
+    background-color: black;
+    color: white;
+}
+
+.ndbutton {
+    background-color: yellow;
+}
+
+.superstyle {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
